@@ -106,10 +106,10 @@ img {
   position: absolute;
   left: 0;
   bottom: 0;
+  top: 68px;
   display: block;
   background-color: var(--title-color);
   border-radius: 2px;
-  margin-top: 24px;
 }
 .adress-list {
     display: flex;
